@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <link rel="stylesheet" href="git_pages.css">
+        <link rel="stylesheet" type="text/css" href="git_pages.css">
     </head>
 <body>
 <h1>Hello World</h1>
